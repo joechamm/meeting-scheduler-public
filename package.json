@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:joechamm/meetingscheduler.git"
+    "url": "https://github.com/joechamm/meeting-scheduler-public.git"
   },
   "author": "Joe Cunningham",
   "license": "MIT",
