@@ -1,6 +1,16 @@
-MIT License
+## Synopsis
 
-Copyright (c) 2024 Joseph Cunningham
+UnConferenceScheduler is a node.js based application to assist in last minute scheduling between groups of investors and entrepreneurs.
+
+## Contributors
+
+Joe Cunningham
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2014 Joe Cunningham
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
